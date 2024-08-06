@@ -1,0 +1,11 @@
+{
+  "name": "assgn-3",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "react-scripts start"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
